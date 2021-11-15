@@ -1,27 +1,17 @@
-# MLBolsa
+Este repositorio pertenece al grupo 2 de la mentoria Machine Learning para invertir en la Bolsa y contiene los trabajos prácticos solicitados en la mentoria dictadas en la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones 2021
 
-## Crear Entorno Virtual
+Miembros
 
-Para poder utilizar los notebooks primero recomendamos armar un entorno virtual con Python 3 utilizando alguna de las siguientes herramientas:
+Santucho Exequiel,
+Ambrosino Virginia.
 
-- [Conda](https://docs.conda.io/en/latest/)
-- [Virtualenv](https://virtualenv.pypa.io/en/latest/)
+Proyectos
 
-> Ayuda: [Entornos Virtuales en Python y Anaconda](https://unipython.com/entornos-virtuales-en-python-y-anaconda/)
+Carpeta: Entregables
 
-## Instalar requerimientos
+practico_1_analisis_y_visualizacion_de_datos
+practico_2_exploración_y_curacion_de_datos
+practico_3_introduccion_aprendizaje_automatico
+practico_4_aprendizaje_supervisado
+practico_5_aprendizaje_no_supervisado
 
-Luego de acivar el entorno virtual, correr el siguiente comando según lo hayas creado con conda o con virtualenv:
-```bash
-# En caso de conda
-conda install -c anaconda pandas-datareader jupyterlab
-
-# En caso de pip
-pip install pandas-datareader jupyterlab
-```
-
-## Correr Jupyter Lab
-
-```bash
-jupyter-lab DatosMLBolsa.ipynb
-```
